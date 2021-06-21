@@ -31,23 +31,12 @@ amostras, orientação sobre desenvolvimento móvel e uma referência completa de AP
 </thead>
 <tbody>
 <tr>
-<td>
-    <img src = "https://github.com/Rodrigo-Mesquitaa/Flutter-Clone-Ifood/raw/master/gitassets/highlights_and_categories.jpeg" />
-</td>
-<td>
-    <img src = "https://github.com/Rodrigo-Mesquitaa/Flutter-Clone-Ifood/raw/master/gitassets/restaurantss.jpeg" />
-</td>
-</tr>
-<tr>
-<td> Animação 1 </td>
-<td> Animação 2 </td>
-</td>
 <tr>
 <td>
-    <img src = "https://github.com/Rodrigo-Mesquitaa/Flutter-Clone-Ifood/raw/master/gitassets/animation_1.gif" />
+    <img src = "https://github.com/Rodrigo-Mesquitaa/Flutter-Clone-Ifood/blob/main/gitassets/animation_1.gif" />
 </td>
 <td>
-    <img src = "https://github.com/Rodrigo-Mesquitaa/Flutter-Clone-Ifood/raw/master/gitassets/animation_2.gif" />
+    <img src = "https://github.com/Rodrigo-Mesquitaa/Flutter-Clone-Ifood/blob/main/gitassets/animation_2.gif" />
 </td>
 </tr>
 <tr>
@@ -55,7 +44,7 @@ amostras, orientação sobre desenvolvimento móvel e uma referência completa de AP
 </tr>
 <tr>
 <td colspan = "2">
-    <img src = "https://github.com/Rodrigo-Mesquitaa/Flutter-Clone-Ifood/raw/master/gitassets/animation_3.gif" />
+    <img src = "https://github.com/Rodrigo-Mesquitaa/Flutter-Clone-Ifood/blob/main/gitassets/animation_3.gif" />
 
     
 </td>
